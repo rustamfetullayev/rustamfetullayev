@@ -27,7 +27,7 @@
 <br>
 <hr>
 
-### 🏆Latest Projects
+### 🏆 Latest Projects
 
 - [FOGITO - manage your business, increase revenue with us](https://fogito.com/)
 - [SMSRadar.az DYP BNA penalties](https://web.smsradar.az/)
