@@ -33,3 +33,4 @@
 - [SMSRadar.az DYP BNA penalties](https://web.smsradar.az/)
 - [Melumat.az Web Portal](https://melumat.az/)
 - [Cargonal.com cargo agency](https://cargonal.com/)
+- [OSP.az Online Insurance Portal](https://osp.az/)
