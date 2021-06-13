@@ -29,8 +29,9 @@
 
 ### 🏆 Latest Projects
 
-- [FOGITO - manage your business, increase revenue with us](https://newpanel.fogito.com/)
-- [SMSRadar.az DYP BNA penalties](https://web.smsradar.az/)
-- [Melumat.az Web Portal](https://melumat.az/)
-- [Cargonal.com cargo agency](https://cargonal.com/)
-- [OSP.az Online Insurance Portal](https://osp.az/)
+- [FOGITO - manage your business, increase revenue with us](https://app.fogito.com)
+- [SMSRadar.az DYP BNA penalties](https://smsradar.az)
+- [Melumat.az Web Portal](https://melumat.az)
+- [Cargonal.com cargo agency](https://cargonal.com)
+- [OSP.az Online Insurance Portal](https://osp.az)
+- [Panel OSP.az Online Insurance Portal Admin Panel](https://panel.osp.az)
