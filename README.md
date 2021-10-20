@@ -2,8 +2,8 @@
   <a href="https://github.com/rustamfetullayev"><img src="https://img.shields.io/github/followers/rustamfetullayev.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/rustamfetullayev"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=rustamfetullayev&show_icons=true&count_private=false&theme=github_dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustamfetullayev&theme=github_dark&card_width=445">
+<img src="https://github-readme-stats.vercel.app/api?username=rustamfetullayev&show_icons=true&count_private=false&theme=maroongold">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustamfetullayev&theme=maroongold&card_width=445">
 
 <hr>
 
