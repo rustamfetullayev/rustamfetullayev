@@ -29,7 +29,7 @@
 
 ### 🏆 Latest Projects
 
-- [FOGITO - manage your business, increase revenue with us](https://app.fogito.com)
+- [FOGITO - manage your business, increase revenue with us](https://fogito.com)
 - [SMSRadar.az DYP BNA penalties](https://smsradar.az)
 - [Melumat.az Web Portal](https://melumat.az)
 - [Cargonal.com cargo agency](https://cargonal.com)
